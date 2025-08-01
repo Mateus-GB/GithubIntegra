@@ -7,6 +7,5 @@ public class integração {
 		System.out.println("primeira integração");
 		System.out.println("segunda integração");
 		System.out.println("terceira  integração vinda do github");
-		System.out.println("fazendo alteração no github");
 		}
 	}
